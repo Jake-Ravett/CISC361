@@ -50,8 +50,7 @@ int main(){
 	// Prepare Output
 	printf("\nProcess ID\t\tArrival Time\t\tBurst Time\t Turnaround Time\Waiting Time\n");
 	// Perform Scheduling Calculations
-	if (!round_robin_algorithm){
-	}
+	if (!round_robin_algorithm){}
 	else{}
 	// Calculate & Print Average Wait and Turnaround Times
 	average_wait_time = 0;
